@@ -1,0 +1,36 @@
+#myflot{
+    height: 600px;
+}
+.mygraph{
+    height: 600px;
+    background: rgb(0,0,0);
+          background: linear-gradient(180deg, rgba(0, 255, 76,0.3) 10%, rgba(255, 0, 0,0.3) 100%);
+}
+#myfont{
+    font-size: 10px;
+}
+#myheight{
+    height: 720px;
+}
+#redditbg{
+    background: url("iconpro.png");
+}
+.redditlogo{
+    background: url("iconpro.png");
+}
+#myalign{
+    text-align: left;
+}
+.dataTables_info{
+    display: none;
+}
+.dataTables_length{
+    display: none;
+}
+#newfont{
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'sans-serif';
+
+}
+.form-control{
+    display: none;
+}
